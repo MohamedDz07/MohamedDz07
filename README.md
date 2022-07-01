@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamedDz07
+- 👋 Hi, I’m Mohamed
 - 👀 I’m interested in tech, crypto, IT
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on IT tasks.
