@@ -1,9 +1,2 @@
 - 👋 Hi, I’m Mohamed
-- 👀 I’m interested in tech, crypto, IT
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on IT tasks.
-- 📫 How to reach me mohamedde@icloud.com
-
-<!---
-MohamedDz07/MohamedDz07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Im IT engineer specialise in web3 based contract interaction, full Dapp beta testing, mainnet full system utilisation and testing, full point system online functionality check ups.
