@@ -26,6 +26,7 @@ My [portfolio](https://mohamedde.lovable.app/en) has more context on the product
 ## Background
 
 - Master's and Bachelor's degrees in Networks and Information Systems — MIT University, Dakar.
+- Bachelor of Business Administration (BBA) — CEFAM, Lyon.
 - IBM certification in RAG and Agentic AI.
 - Earlier accounting experience verifying invoices and purchase orders at SONES.
 
